@@ -18,7 +18,9 @@ Tools
 The best tools for this lab are:
 
 Nmap
+
 FTP
+
 MySQL
 
 ## Lets start with an Nmap scan 
