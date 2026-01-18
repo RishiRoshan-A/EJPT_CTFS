@@ -2,9 +2,13 @@ Lab Environment
 A website is accessible at http://target.ine.local. Perform reconnaissance and capture the following flags.
 
 Flag 1: This tells search engines what to and what not to avoid.
+
 Flag 2: What website is running on the target, and what is its version?
+
 Flag 3: Directory browsing might reveal where files are stored.
+
 Flag 4: An overlooked backup file in the webroot can be problematic if it reveals sensitive configuration details.
+
 Flag 5: Certain files may reveal something interesting when mirrored.
 
 Tools:
@@ -76,4 +80,5 @@ While accessing the path a file has been downlaoded , so lets visit the file
 
 We successfully found the flag4
 
+----------------------------------------------------------------THE END---------------------------------------------------------------------------
 
